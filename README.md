@@ -3,18 +3,18 @@
 
 
 Adjectives:
-Crazy 
-Amazing
+Crazy, 
+Amazing,
 Fire 
 
 Shop Name:
-Engine
-Foods
+Engine,
+Foods,
 Garments
 
 Another Word:
-Bros
-Limited
+Bros,
+Limited,
 Hub
 
 
